@@ -20,7 +20,7 @@ function App() {
             </main>
 
             <footer>
-               <h2>Filters</h2>
+               <h2>Loading...</h2>
             </footer>
 
 
